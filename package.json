@@ -1,0 +1,25 @@
+{
+  "name": "ws-scroli",
+  "version": "1.0.0",
+  "description": "Line Scroll plugin JavaScript",
+  "main": "./dist/WS-ScroLi.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AlexandreBulete/WS-ScroLi.git"
+  },
+  "keywords": [
+    "scroll",
+    "line",
+    "scroll",
+    "line",
+    "walkerspider",
+    "plugin",
+    "javascript"
+  ],
+  "author": "Alexandre Buleté",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexandreBulete/WS-ScroLi/issues"
+  },
+  "homepage": "https://github.com/AlexandreBulete/WS-ScroLi#readme"
+}
