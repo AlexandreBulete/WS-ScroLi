@@ -28,7 +28,8 @@
 
 body {
   font-family: 'Muli', sans-serif; }
-  body #header {
+/** 
+body #header {
     height: 1000px;
     width: 100%;
     background-color: orange;
@@ -40,6 +41,7 @@ body {
       text-align: center;
       color: white;
       font-size: 60px; }
+**/
   body #description p {
     text-align: center;
     font-size: 18px;
